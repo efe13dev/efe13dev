@@ -1,7 +1,7 @@
-## Bienvenido a mi cuenta personal de GitHub
+## Bienvenido a mi cuenta personal de GitHub 👋
 
 
-<h4>Lenguajes de programación</h4>
+<h4>Lenguajes de programación </h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
