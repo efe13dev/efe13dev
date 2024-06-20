@@ -70,10 +70,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efe13dev&theme=radical&card_width=450em" />
 
-
+<!--
 ### Desglose del desarrollo semanal
 
 <!--START_SECTION:waka-->
+<!--
 ```text
 JavaScript   8 hrs 47 mins   █████████████████████▓░░░  75.74 %
 Typescript   11 hrs 47 mins  █████████████████████▓░░░   86.74 % 
