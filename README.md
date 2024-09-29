@@ -8,17 +8,18 @@
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
----
+## <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 - :school: Soy un Desarrollador Web Full-Stack Junior
-- :technologist:  Me gusta usar el software como solución para cada `Problema`.
+- :technologist: Me gusta usar el software como solución para cada `Problema`.
 - :student: Actualmente estoy aprendiendo `React Native` y `TypeScript`.
 - :nerd_face: Siempre `aprendiendo nuevas tecnologías`
 - :thinking: Actualmente estoy abierto a una nueva oportunidad de trabajo, este es [Mi currículum](https://drive.google.com/file/d/1usV16hQSWjdbCi70wXSOLwWFUsU5tngg/view?usp=drive_link).
-- :boom: Puedes visitar  [Mi portfolio](https://astro-portfolio-eta.vercel.app/).
-<br>
+- :boom: Puedes visitar [Mi portfolio](https://astro-portfolio-eta.vercel.app/).
+  <br>
 
 ---
+
 <h3>
    ★  Lenguajes de Programación
 </h3> 
@@ -57,7 +58,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
-
 ---
 
 ### Github Stats
@@ -71,38 +71,32 @@
 <!--
 ```text
 JavaScript   8 hrs 47 mins   █████████████████████▓░░░  75.74 %
-Typescript   11 hrs 47 mins  █████████████████████▓░░░   86.74 % 
-CSS          1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-XML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Text         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Typescript   11 hrs 47 mins  █████████████████████▓░░░   86.74 %
+CSS          1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+XML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Text         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 <!--END_SECTION:waka-->
 
-
-
 ### Repositorios TOP
-
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=efe13dev&repo=meetups-frontend&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/efe13dev/meetups-frontend)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=efe13dev&repo=meetups-backend&bg_color=30,00d2ff,3a7bd5&title_color=fff&text_color=fff)](https://github.com/efe13dev/meetups-backend)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=efe13dev&repo=descubre-parejas&bg_color=30,ff758c,ff7eb3&title_color=fff&text_color=fff)](https://github.com/efe13dev/descubre-parejas)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=efe13dev&repo=tres-en-raya&bg_color=30,11998e,38ef7d&title_color=fff&text_color=fff)](https://github.com/efe13dev/tres-en-raya)
-
-
+[![](https://github-readme-stats.vercel.app/api/pin/?username=efe13dev&repo=QueComemosHoy&bg_color=30,11998e,38ef7d&title_color=fff&text_color=fff)](https://github.com/efe13dev/QueComemosHoy)
 
 ---
 
 ### Contacto
 
 <p>
-  <a href="https://www.linkedin.com/in/fcolorca/">
+  <a href="https://www.linkedin.com/in/fcolorca/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
- 
-  
+  <a href="mailto:efe13dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
-
-
