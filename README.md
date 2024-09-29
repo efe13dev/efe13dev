@@ -84,10 +84,10 @@ Text         4 mins          ░░░░░░░░░░░░░░░░░
 ### Repositorios TOP
 
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=efe13dev&repo=meetups-frontend&bg_color=45,30cfd0,330867&title_color=000&text_color=000)](https://github.com/efe13dev/meetups-frontend)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=efe13dev&repo=meetups-backend&bg_color=45,30cfd0,330867&title_color=000&text_color=000)](https://github.com/efe13dev/meetups-backend)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=efe13dev&repo=descubre-parejas&bg_color=45,30cfd0,330867&title_color=000&text_color=000)](https://github.com/efe13dev/descubre-parejas)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=efe13dev&repo=tres-en-raya&bg_color=45,30cfd0,330867&title_color=000&text_color=000)](https://github.com/efe13dev/tres-en-raya)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=efe13dev&repo=meetups-frontend&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/efe13dev/meetups-frontend)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=efe13dev&repo=meetups-backend&bg_color=30,00d2ff,3a7bd5&title_color=fff&text_color=fff)](https://github.com/efe13dev/meetups-backend)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=efe13dev&repo=descubre-parejas&bg_color=30,ff758c,ff7eb3&title_color=fff&text_color=fff)](https://github.com/efe13dev/descubre-parejas)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=efe13dev&repo=tres-en-raya&bg_color=30,11998e,38ef7d&title_color=fff&text_color=fff)](https://github.com/efe13dev/tres-en-raya)
 
 
 
