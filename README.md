@@ -17,7 +17,7 @@
 - 📚 Actualmente aprendiendo `React Native` y `TypeScript`
 - 🎯 Siempre en busca de nuevos conocimientos y tecnologías
 - 📄 Explora [Mi Currículum](https://drive.google.com/file/d/1usV16hQSWjdbCi70wXSOLwWFUsU5tngg/view?usp=drive_link)
-- 🌐 Visita [Mi Portfolio]([efe-13.es](https://efe-13.es/))
+- 🌐 Visita [Mi Portfolio](https://efe-13.es/)
 
 <br>
 
