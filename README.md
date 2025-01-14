@@ -18,6 +18,8 @@
 - 🎯 Siempre en busca de nuevos conocimientos y tecnologías
 - 📄 Explora [Mi Currículum](https://drive.google.com/file/d/1usV16hQSWjdbCi70wXSOLwWFUsU5tngg/view?usp=drive_link)
 - 🌐 Visita [Mi Portfolio](https://efe-13.es/){:target="_blank"}
+- <a href="https://tu-enlace.com" target="_blank" rel="noopener noreferrer">Mi portafolio</a>
+
 
 <br>
 
