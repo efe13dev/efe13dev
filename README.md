@@ -16,7 +16,7 @@
 - 💡 Me apasiona usar el software como solución para cada `Problema`
 - 📚 Actualmente aprendiendo `React Native` y `TypeScript`
 - 🎯 Siempre en busca de nuevos conocimientos y tecnologías
-- 📄 Explora [Mi Currículum](https://drive.google.com/file/d/1usV16hQSWjdbCi70wXSOLwWFUsU5tngg/view?usp=drive_link)
+- 📄 Explora [Mi Currículum](https://drive.google.com/file/d/1HyJgth9mJ9RC0ggtSBVxc50Ap24kb4S2/view?usp=drive_link)
 - 🌐 Visita [Mi Portfolio](https://efe-13.es/)
 
 
