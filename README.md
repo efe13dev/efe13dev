@@ -140,19 +140,19 @@ Con una mentalidad orientada a la resolución de problemas, creo que el software
 - 🎯 **Estado**: En desarrollo activo
 - 📊 **Impacto**: Más de 500 usuarios registrados, 50+ eventos creados
 
-### 💕 **Descubre Parejas**
+### 🃏 **Descubre Parejas**
 <div align="center">
   <a href="https://github.com/efe13dev/descubre-parejas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=efe13dev&repo=descubre-parejas&bg_color=23272E&title_color=F8FAFC&text_color=A5B4FC" alt="Descubre Parejas">
   </a>
 </div>
 
-**Plataforma de citas con matching inteligente**
+**Juego de cartas interactivo con mecánicas de matching**
 
 - 🛠️ **Tech Stack**: React, TypeScript, Tailwind CSS
-- 💫 **Características**: Algoritmo de matching, chat en tiempo real, perfiles personalizados
+- 💫 **Características**: Sistema de emparejamiento de cartas, animaciones fluidas, puntuación
 - 🚀 **Estado**: Versión beta completada
-- 🎪 **Innovación**: Sistema de recomendaciones basado en intereses compartidos
+- 🎪 **Innovación**: Mecánicas de juego intuitivas y diseño responsive
 
 ### 🍽️ **Qué Comemos Hoy**
 <div align="center">
@@ -161,10 +161,10 @@ Con una mentalidad orientada a la resolución de problemas, creo que el software
   </a>
 </div>
 
-**Generador de recetas aleatorio con ingredientes disponibles**
+**App móvil para gestionar menús semanales con recetas propias**
 
 - 🎨 **Tech Stack**: React Native, JavaScript
-- 🔄 **Características**: Base de datos de 200+ recetas, filtro por ingredientes
+- 🔄 **Características**: Gestión de menús semanales, base de datos de recetas personales, planificación nutricional
 - 📱 **Estado**: Completado y funcional
 
 ### 🌐 **Portfolio Personal**
