@@ -135,10 +135,10 @@ Con una mentalidad orientada a la resolución de problemas, creo que el software
 
 **Aplicación full-stack para organizar y gestionar eventos meetup**
 
-- 🏗️ **Tech Stack**: React, Next.js, Node.js, Express, MySQL
+- 🏗️ **Tech Stack**: React, Node.js, Express, MySQL
 - ✨ **Características**: Autenticación, gestión de eventos, registro de usuarios
 - 🎯 **Estado**: En desarrollo activo
-- 📊 **Impacto**: Más de 500 usuarios registrados, 50+ eventos creados
+
 
 ### 🃏 **Descubre Parejas**
 <div align="center">
@@ -149,7 +149,7 @@ Con una mentalidad orientada a la resolución de problemas, creo que el software
 
 **Juego de cartas interactivo con mecánicas de matching**
 
-- 🛠️ **Tech Stack**: React, TypeScript, Tailwind CSS
+- 🛠️ **Tech Stack**: HTML, CSS3, JavaScript
 - 💫 **Características**: Sistema de emparejamiento de cartas, animaciones fluidas, puntuación
 - 🚀 **Estado**: Versión beta completada
 - 🎪 **Innovación**: Mecánicas de juego intuitivas y diseño responsive
