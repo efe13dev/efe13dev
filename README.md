@@ -135,7 +135,7 @@ Soy **Fran**, desarrollador web full-stack con experiencia en React, Next.js y N
 
 <div align="center">
 <p>
-  <a href="https://www.linkedin.com/in/fcolorca/" target="_blank">
+  <a href="https://www.linkedin.com/in/efe13-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:efe13dev@gmail.com" target="_blank">
