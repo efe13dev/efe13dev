@@ -12,10 +12,10 @@
 
 Soy **Fran**, desarrollador web full-stack con experiencia en React, Next.js y Node.js. Me especializo en crear aplicaciones web modernas con código limpio y buenas prácticas.
 
-- � Actualmente trabajo en proyectos freelance y personales
-- � Explorando **Docker**, **AWS** y **Python**
+- 💻 Actualmente trabajo en proyectos freelance y personales
+- 📚 Explorando **Docker**, **AWS** y **Python**
 - 🤝 Abierto a colaboraciones open source y oportunidades laborales
-- � Portfolio: [efe-13.es](https://efe-13.es/)
+- 🔗 Portfolio: [efe-13.es](https://efe-13.es/)
 
 ## 💼 Experiencia
 
@@ -40,14 +40,14 @@ Soy **Fran**, desarrollador web full-stack con experiencia en React, Next.js y N
 
 ###  Stack Tecnológico
 
-| Categoría | Tecnologías | Nivel |
-|-----------|-------------|-------|
-| **Lenguajes** | JavaScript, TypeScript, HTML5, CSS3 | ⚡ Avanzado |
-| **Frontend** | React, Next.js, Astro, Tailwind CSS | ⚡ Avanzado |
-| **Backend** | Node.js, Express.js, Bun | 📈 Intermedio |
-| **Bases de Datos** | MySQL, Turso, Supabase, Drizzle ORM | 📈 Intermedio |
-| **Herramientas** | Git, GitHub, VS Code, ESLint, Prettier | ⚡ Avanzado |
-| **Plataformas** | Vercel, Netlify | 📈 Intermedio |
+| Categoría | Tecnologías |
+|-----------|-------------|
+| **Lenguajes** | JavaScript, TypeScript, HTML5, CSS3 |
+| **Frontend** | React, Next.js, Astro, Tailwind CSS |
+| **Backend** | Node.js, Express.js, Bun |
+| **Bases de Datos** | MySQL, Turso, Supabase, Drizzle ORM |
+| **Herramientas** | Git, GitHub, VS Code, ESLint, Prettier |
+| **Plataformas** | Vercel, Netlify |
 
 <div align="center">
 <p>
@@ -77,10 +77,10 @@ Soy **Fran**, desarrollador web full-stack con experiencia en React, Next.js y N
 ### 🚀 **Meetups App** (Frontend + Backend)
 <div align="center">
   <a href="https://github.com/efe13dev/meetups-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=efe13dev&repo=meetups-frontend&bg_color=23272E&title_color=F8FAFC&text_color=A5B4FC" alt="Meetups Frontend">
+    <img src="https://github-readme-stats-ahog.vercel.app/api/pin/?username=efe13dev&repo=meetups-frontend&bg_color=23272E&title_color=F8FAFC&text_color=A5B4FC" alt="Meetups Frontend">
   </a>
   <a href="https://github.com/efe13dev/meetups-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=efe13dev&repo=meetups-backend&bg_color=23272E&title_color=F8FAFC&text_color=A5B4FC" alt="Meetups Backend">
+    <img src="https://github-readme-stats-ahog.vercel.app/api/pin/?username=efe13dev&repo=meetups-backend&bg_color=23272E&title_color=F8FAFC&text_color=A5B4FC" alt="Meetups Backend">
   </a>
 </div>
 
@@ -91,7 +91,7 @@ Soy **Fran**, desarrollador web full-stack con experiencia en React, Next.js y N
 ### 🃏 **Descubre Parejas**
 <div align="center">
   <a href="https://github.com/efe13dev/descubre-parejas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=efe13dev&repo=descubre-parejas&bg_color=23272E&title_color=F8FAFC&text_color=A5B4FC" alt="Descubre Parejas">
+    <img src="https://github-readme-stats-ahog.vercel.app/api/pin/?username=efe13dev&repo=descubre-parejas&bg_color=23272E&title_color=F8FAFC&text_color=A5B4FC" alt="Descubre Parejas">
   </a>
 </div>
 
@@ -101,7 +101,7 @@ Soy **Fran**, desarrollador web full-stack con experiencia en React, Next.js y N
 ### 🍽️ **Qué Comemos Hoy**
 <div align="center">
   <a href="https://github.com/efe13dev/QueComemosHoy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=efe13dev&repo=QueComemosHoy&bg_color=23272E&title_color=F8FAFC&text_color=A5B4FC" alt="Qué Comemos Hoy">
+    <img src="https://github-readme-stats-ahog.vercel.app/api/pin/?username=efe13dev&repo=QueComemosHoy&bg_color=23272E&title_color=F8FAFC&text_color=A5B4FC" alt="Qué Comemos Hoy">
   </a>
 </div>
 
@@ -122,16 +122,16 @@ Soy **Fran**, desarrollador web full-stack con experiencia en React, Next.js y N
 ## 📊 Estadísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=efe13dev&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-ahog.vercel.app/api?username=efe13dev&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efe13dev&theme=tokyonight&layout=compact&card_width=450em" alt="Top Languages" />
+  <img src="https://github-readme-stats-ahog.vercel.app/api/top-langs/?username=efe13dev&theme=tokyonight&layout=compact&card_width=450em" alt="Top Languages" />
   <br><br>
   <img src="https://streak-stats.demolab.com?user=efe13dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=efe13dev&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
-## � Contacto
+## 📫 Contacto
 
 <div align="center">
 <p>
