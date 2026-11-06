@@ -37,12 +37,6 @@ Soy **Fran**, desarrollador web full-stack especializado en el ecosistema **Java
 - Formación intensiva práctica en JavaScript, React, Node.js, Express y MySQL.
 - **Proyecto final**: Plataforma de gestión de eventos con autenticación, roles y persistencia de datos.
 
-### 📚 Certificaciones y Cursos
-- AWS Cloud Practitioner Essentials
-- Google IT Support Professional Certificate
-- Advanced React Patterns (Platzi)
-- System Design Interview (Frontend Masters)
-
 ## 🛠️ Stack Tecnológico
 
 | Categoría | Tecnologías |
