@@ -20,14 +20,28 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Fran**, desarrollador web full-stack con experiencia en React, Next.js y Node.js. Me especializo en crear aplicaciones web modernas con código limpio y buenas prácticas.
+Soy **Fran**, desarrollador web full-stack especializado en el ecosistema **JavaScript/TypeScript** (React, Next.js, Astro y Node.js). Me enfoco en construir productos rápidos, mantenibles y orientados a una buena experiencia de usuario.
 
-- 💻 Actualmente trabajo en proyectos freelance y personales
-- 📚 Explorando **Docker**, **AWS** y **Python**
-- 🤝 Abierto a colaboraciones open source y oportunidades laborales
-- 🔗 Portfolio: [efe-13.es](https://efe-13.es/)
+- 💻 Desarrollando proyectos freelance y aplicaciones propias de extremo a extremo
+- 🌱 Explorando **Go** y **Docker**
+- 🤝 Abierto a **oportunidades laborales**, **proyectos freelance** y colaboraciones open source
 
-## 💼 Experiencia
+## 💼 Experiencia y Formación
+
+### 🚀 Desarrollador Web Full-Stack (Freelance & Proyectos Propios) | *Actualidad*
+- Arquitectura y desarrollo de aplicaciones web completas desde el diseño de base de datos SQL (Supabase, Turso, MySQL y Drizzle ORM) hasta el despliegue en producción.
+- Diseño e implementación de APIs RESTful con Node.js, Express y Bun.
+- Construcción de interfaces responsivas, accesibles y optimizadas para SEO con Next.js, Astro y Tailwind CSS.
+
+### 🎓 Bootcamp de Desarrollo Web Full-Stack | *2023 - 2024*
+- Formación intensiva práctica en JavaScript, React, Node.js, Express y MySQL.
+- **Proyecto final**: Plataforma de gestión de eventos con autenticación, roles y persistencia de datos.
+
+### 📚 Certificaciones y Cursos
+- AWS Cloud Practitioner Essentials
+- Google IT Support Professional Certificate
+- Advanced React Patterns (Platzi)
+- System Design Interview (Frontend Masters)
 
 ## 🛠️ Stack Tecnológico
 
@@ -39,127 +53,46 @@ Soy **Fran**, desarrollador web full-stack con experiencia en React, Next.js y N
 | **Bases de Datos & ORM** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Turso](https://img.shields.io/badge/Turso-4FF8D2?style=flat-square&logo=turso&logoColor=black) ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black) |
 | **DevOps & Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
 
-### 📚 Certificaciones y Cursos
-- AWS Cloud Practitioner Essentials
-- Google IT Support Professional Certificate
-- Advanced React Patterns (Platzi)
-- System Design Interview (Frontend Masters)
-
-## 🛠️ Tecnologías & Herramientas
-
-###  Stack Tecnológico
-
-| Categoría | Tecnologías |
-|-----------|-------------|
-| **Lenguajes** | JavaScript, TypeScript, HTML5, CSS3 |
-| **Frontend** | React, Next.js, Astro, Tailwind CSS |
-| **Backend** | Node.js, Express.js, Bun |
-| **Bases de Datos** | MySQL, Turso, Supabase, Drizzle ORM |
-| **Herramientas** | Git, GitHub, VS Code, ESLint, Prettier |
-| **Plataformas** | Vercel, Netlify |
-
-<div align="center">
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white" alt="Astro">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-</p>
-</div>
-
-### 🌱 Aprendiendo
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL">
-</p>
-
 ## 🌟 Proyectos Destacados
 
-### 🚀 **Meetups App** (Frontend + Backend)
-<div align="center">
+### 🚀 Meetups App ([Frontend](https://github.com/efe13dev/meetups-frontend) · [Backend](https://github.com/efe13dev/meetups-backend))
+Plataforma full-stack para creación, descubrimiento y gestión de eventos presenciales con autenticación de usuarios y registro de asistentes.
+- **Stack**: React, Next.js, Node.js, Express, MySQL
+
+<p>
   <a href="https://github.com/efe13dev/meetups-frontend">
     <img src="https://github-readme-stats-ahog.vercel.app/api/pin/?username=efe13dev&repo=meetups-frontend&bg_color=23272E&title_color=F8FAFC&text_color=A5B4FC" alt="Meetups Frontend">
   </a>
   <a href="https://github.com/efe13dev/meetups-backend">
     <img src="https://github-readme-stats-ahog.vercel.app/api/pin/?username=efe13dev&repo=meetups-backend&bg_color=23272E&title_color=F8FAFC&text_color=A5B4FC" alt="Meetups Backend">
   </a>
-</div>
+</p>
 
-- 🏗️ **Tech Stack**: React, Next.js, Node.js, Express, MySQL
-- ✨ **Características**: Autenticación, gestión de eventos, registro de usuarios
-- 🎯 **Estado**: En desarrollo activo
+### 🍽️ [Qué Comemos Hoy](https://github.com/efe13dev/QueComemosHoy)
+Aplicación móvil para planificar menús semanales y gestionar una base de datos de recetas personales.
+- **Stack**: React Native, JavaScript
 
-### 🃏 **Descubre Parejas**
-<div align="center">
-  <a href="https://github.com/efe13dev/descubre-parejas">
-    <img src="https://github-readme-stats-ahog.vercel.app/api/pin/?username=efe13dev&repo=descubre-parejas&bg_color=23272E&title_color=F8FAFC&text_color=A5B4FC" alt="Descubre Parejas">
-  </a>
-</div>
-
-- 🛠️ **Tech Stack**: React, TypeScript, Tailwind CSS
-- 💫 **Características**: Sistema de emparejamiento de cartas, animaciones fluidas, puntuación
-
-### 🍽️ **Qué Comemos Hoy**
-<div align="center">
+<p>
   <a href="https://github.com/efe13dev/QueComemosHoy">
     <img src="https://github-readme-stats-ahog.vercel.app/api/pin/?username=efe13dev&repo=QueComemosHoy&bg_color=23272E&title_color=F8FAFC&text_color=A5B4FC" alt="Qué Comemos Hoy">
   </a>
-</div>
+</p>
 
-- 🎨 **Tech Stack**: React Native, JavaScript
-- 🔄 **Características**: Gestión de menús semanales, base de datos de recetas personales
-- 📱 **Estado**: Completado y funcional
+### 🃏 [Descubre Parejas](https://github.com/efe13dev/descubre-parejas)
+Juego interactivo de memoria con sistema de emparejamiento de cartas, animaciones fluidas y marcador de puntuación.
+- **Stack**: React, TypeScript, Tailwind CSS
 
-### 🌐 **Portfolio Personal**
-<div align="center">
-  <a href="https://efe-13.es/">
-    <img src="https://img.shields.io/badge/🌐_Ver_Portfolio-000000?style=for-the-badge" alt="Portfolio">
+<p>
+  <a href="https://github.com/efe13dev/descubre-parejas">
+    <img src="https://github-readme-stats-ahog.vercel.app/api/pin/?username=efe13dev&repo=descubre-parejas&bg_color=23272E&title_color=F8FAFC&text_color=A5B4FC" alt="Descubre Parejas">
   </a>
-</div>
-
-- 🚀 **Tech Stack**: Next.js, React, Tailwind CSS
-- 📄 **Características**: Responsive design, animaciones suaves, SEO optimizado
+</p>
 
 ## 📊 Estadísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-ahog.vercel.app/api?username=efe13dev&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats-ahog.vercel.app/api/top-langs/?username=efe13dev&theme=tokyonight&layout=compact&card_width=450em" alt="Top Languages" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=efe13dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=efe13dev&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
-## 📫 Contacto
-
-<div align="center">
-<p>
-  <a href="https://www.linkedin.com/in/efe13-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:efe13dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://efe-13.es/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://github.com/efe13dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
-� Disponible para **proyectos freelance**, **colaboraciones open source** y **oportunidades laborales**.
-
+  <img src="https://github-readme-stats-ahog.vercel.app/api?username=efe13dev&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-ahog.vercel.app/api/top-langs/?username=efe13dev&theme=tokyonight&layout=compact&card_width=350" height="165" alt="Top Languages" />
 </div>
 
 ---
@@ -167,5 +100,5 @@ Soy **Fran**, desarrollador web full-stack con experiencia en React, Next.js y N
 <div align="center">
   💼 Disponible para <b>proyectos freelance</b>, <b>colaboraciones open source</b> y <b>oportunidades laborales</b> en <a href="https://efe-13.es/">efe-13.es</a> · <a href="mailto:efe13dev@gmail.com">efe13dev@gmail.com</a>
   <br><br>
-  <b>¡Feliz coding! 👨‍💻✨</b>
+  <i>"El código es como el humor. Cuando tienes que explicarlo, es malo." — Cory House</i>
 </div>
